@@ -7,9 +7,8 @@
 }
 
 #cycling-group {
-    height: 600px;
-    width: 100%;
-    background-image: url('../images/cyclinggroup.jpg') no-repeat;
+    height: 100px;
+    width: 50%;
 }
 
 body,html {
@@ -94,6 +93,12 @@ h2 {
     margin: 0% auto;
 }
 
+#center-about-heading {
+    padding-top: 30px;
+    width: 33%;
+    margin: 0;
+}
+
 hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
@@ -126,3 +131,11 @@ form > h2 {
     color: #fafafa;
     margin-bottom: 30px;
 }
+
+ #logo-cycle {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    color: rgb(0, 0, 0);
+    font-size: 200%;
+ }
