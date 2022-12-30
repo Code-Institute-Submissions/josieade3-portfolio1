@@ -71,7 +71,7 @@ i {
   background: linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
 }
 .nav-item a {
-  color: #fff !important;
+  color: rgb(255, 255, 255) !important;
   font-weight: bold;
 }
 .header-section {
@@ -97,7 +97,7 @@ i {
   margin: 0 5px;
   padding: 12px 35px;
   outline: none;
-  color: #fff;
+  color: rgb(15, 15, 15);
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.4;
