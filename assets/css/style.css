@@ -139,3 +139,49 @@ form > h2 {
     color: rgb(0, 0, 0);
     font-size: 200%;
  }
+
+ div.gallery {
+    border: 3px solid rgb(0, 0, 0);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+    min-width: 250px;
+    max-width: 800px;
+    padding: 2px 0 2px 0;
+    height: auto;
+    margin: auto;
+  }
+
+  .parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+    display: block;
+    width: 100%;
+    margin: auto;
+    min-width: 250px;
+    max-width: 800px;
+    padding: 2px 0 2px 0;
+    height: auto;
+    margin: auto;
+    border-radius: 10px;
+    border: 3px solid black;
+  }
+
+  .div {
+    float: left;
+  }
+  
+  div.gallery:hover {
+    border: 3px solid rgb(0, 0, 0);
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
