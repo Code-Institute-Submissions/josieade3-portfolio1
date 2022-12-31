@@ -7,6 +7,9 @@ html {
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+body {
+  background-color: rgb(138, 255, 173);
+}
 a {
   text-decoration: none;
 }
@@ -71,7 +74,7 @@ i {
   background: linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
 }
 .nav-item a {
-  color: rgb(255, 255, 255) !important;
+  color: rgb(7, 7, 7) !important;
   font-weight: bold;
 }
 .header-section {
@@ -410,3 +413,5 @@ form:hover .form-button button {
     margin: 30px 0;
   }
 }
+
+
