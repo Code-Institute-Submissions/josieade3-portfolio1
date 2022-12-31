@@ -62,6 +62,7 @@ i {
   z-index: -1;
   background: linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
 }
+
 .navbar::before {
   content: "";
   position: absolute;
@@ -77,10 +78,20 @@ i {
   color: rgb(7, 7, 7) !important;
   font-weight: bold;
 }
+
+nav {
+  background-color: rgba(48, 44, 44, 0.9);
+  border: 3px #4a4a4a;
+  padding: 5px 0 5px 0;
+  border-radius: 10px;
+}
+
+
+
 .header-section {
   width: 100%;
   height: inherit;
-  color: #fff;
+  color: rgb(15, 14, 14);
   text-align: center;
   position: relative;
 }
@@ -95,7 +106,7 @@ i {
   -webkit-transform: translate(-50%, -50%);
 }
 .header-buttons a {
-  border: 1px solid #fff;
+  border: 1px solid rgb(16, 16, 16);
   border-radius: 100px;
   margin: 0 5px;
   padding: 12px 35px;
@@ -108,8 +119,8 @@ i {
 }
 .header-buttons a:hover {
   text-decoration: none;
-  color: #50d1c0;
-  background-color: #fff;
+  color: #5070d1;
+  background-color: rgb(28, 26, 26);
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
 }
 .center-div p {
