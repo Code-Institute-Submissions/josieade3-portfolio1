@@ -29,13 +29,41 @@ Another blue button should appear to click: Open Browser.
 - ![Screen Shot 2022-12-31 at 10 38 14](https://user-images.githubusercontent.com/116975650/210133715-1337bb88-13e1-4360-a41b-d74828a4339f.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
+• Gallery
+
+-The gallery provides different pictures of our cyclists
+- The gallery shows clear pictures with single cyclist pictures and group cyclist pictures
+-The gallery shows users the different locations we provide lessons in
+
+![Screen Shot 2022-12-31 at 10 21 26](https://user-images.githubusercontent.com/116975650/210134049-d724357c-8238-4e63-adb7-4358a38505d5.png)
+
+https://www.pexels.com/ (Pictures taken from Pexels.com)
+
 • The Sign Up Form
 - The sign up section has a form to collect information from parents to sign their children up to a cycling class and for safe guarding issues we don't allow anyone to directly sign up for a class immediately, instead we tell users that our team will reach out to them with further details
 - The sign up form is also for those who are 18+ to fill out, in this case they still cant sign up immideiately, a member of our team will reach out to confirm their age
 - The sign up form collects the name, last name, email and phone number.
 - The sign up form is valuable to users because it ensures they will be reached out to and they are half-way there in confirming a secure spot in one of our cycle classes.
-- 
+
+https://www.w3schools.com/howto/howto_css_signup_form.asp (I used this to help me create the sign up form)
 ![Screen Shot 2022-12-31 at 10 40 51](https://user-images.githubusercontent.com/116975650/210133898-0807d2a4-98f0-4924-ae99-53d4f3231394.png)
+
+• Testing
+- I tested the page works in different browsers: Firefox, Safari and Chrome.
+_ I confirm that the project is responsive, looks cohesive and functions on all standard screen sizes using 
+the dev tools device bar.
+- I confirm that the navigatiion, header, about us, sign up/contact text are all reliable and 
+easy to read.
+- I have confirmed that the form works, the form works and requires entries in every field, will only accpet a
+email in the email field and the submit button works.
+
+BUGS
+Solved bugs
+- When i first started my project I realised that none of my css was working.
+- I realised that this was because my html and css file were not linked nd had trouble with the internal file.
+![Screen Shot 2022-12-31 at 10 59 44](https://user-images.githubusercontent.com/116975650/210134398-7d29bc97-929e-4c6e-acdb-d28339a16f50.png)
+
+
 
 
 
