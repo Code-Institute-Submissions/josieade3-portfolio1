@@ -4,7 +4,7 @@ CYCLE CIRCLE
 
     Users of this website will be able to find all the infromation they need to know about. Benefits of cycling, About the club, Gallery of our cyclits and a contact form. However, in order to sign up officialy they will need to use the contact form. 
 
- ![Website] {https://8000-josieade3-portfolio1-f40j2hy3tgm.ws-eu80.gitpod.io/index.html#}
+ 
 
 Gitpod Reminders
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
