@@ -1,8 +1,10 @@
-PROJECT PORTFOLIO 1
+CYCLE CIRCLE
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+    Cycle Circle is a website page for women, men and children looking for a fun way to exercise and connect with others while dong it.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: September 1, 2021
+    Users of this website will be able to find all the infromation they need to know about. Benefits of cycling, About the club, Gallery of our cyclits and a contact form. However, in order to sign up officialy they will need to use the contact form. 
+
+ ![Website] {https://8000-josieade3-portfolio1-f40j2hy3tgm.ws-eu80.gitpod.io/index.html#}
 
 Gitpod Reminders
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
