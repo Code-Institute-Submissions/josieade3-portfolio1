@@ -29,6 +29,12 @@ Another blue button should appear to click: Open Browser.
 
 - ![Screen Shot 2022-12-31 at 10 38 14](https://user-images.githubusercontent.com/116975650/210133715-1337bb88-13e1-4360-a41b-d74828a4339f.png)
 
+• USER STORIES
+As a user, I want to easily understand the main purpose of the site
+As a user, I want to be able to navigate the site with an easy to see and read navigation bar.
+As a user, I want the site to be attractive
+As a user, I want to be able to learn something new
+As a user, I want to see images 
 ------------------------------------------------------------------------------------------------------------------------------
 • Gallery
 
