@@ -82,11 +82,12 @@ No unfixed bugs
 ------------------------------------------------------------------------------------------------------------
 DEPLOYMENT
 The site was deployed to Git hub pages. The steps to deploy are as follows:
-In thr Github repository, navigate to the settings tab
+In the Github repository, navigate to the settings tab
 From the source section drop-down menu, selecter the Master Branch
 Once the master branch has been selected, the page provided to the link to the completed website
 
 The live link can be found here - https://8000-josieade3-portfolio1-f40j2hy3tgm.ws-eu80.gitpod.io/index.html
 ----------------------------------------------------------------------------------------------------------
+Credits
 Content -
 Favicons used for the footer were taken from fontawesome.com https://fontawesome.com/v4/icons/
