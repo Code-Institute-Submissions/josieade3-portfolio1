@@ -3,34 +3,49 @@ CYCLE CIRCLE
     Cycle Circle is a website page for women, men and children looking for a fun way to exercise and connect with others while dong it.
 
     Users of this website will be able to find all the infromation they need to know about. Benefits of cycling, About the club, Gallery of our cyclits and a contact form. However, in order to sign up officialy they will need to use the contact form. 
+    
+![Screen Shot 2022-12-31 at 10 19 30](https://user-images.githubusercontent.com/116975650/210133110-950501cb-c989-4f7c-b9b7-6b8f603838f6.png)
 
- 
 
-Gitpod Reminders
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+ !Link to website {https://8000-josieade3-portfolio1-f40j2hy3tgm.ws-eu80.gitpod.io/index.html}
 
-python3 -m http.server
-A blue button should appear to click: Make Public,
--------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+FEATURES
+- Featured at the top left hand corner of the page the navigation links to pages: Home, About us, Gallery and contact.
+- The navigation is in a simple font and colour blue to contrast the bright white background
+- The navigation clearly tells the user the different sections of infomation that they can find.
+
+- ![Screen Shot 2022-12-31 at 10 30 54](https://user-images.githubusercontent.com/116975650/210133518-d97e7c89-a71e-44c9-89d6-dcc027b6b364.png)
+
+ • The Header
+ - The header shows the name of the club, using the chosen color: blue, in the same font as the properties in the navigation bar.
+ - This header explains the club is for people aged 13-70.
 Another blue button should appear to click: Open Browser.
 
-To run a backend Python file, type python3 app.py, if your Python file is named app.py of course.
+ • The About us section
+- The About us sectoon gives details about what the club can offer in terms of health, happiness and fun.
+- The About us section tells the user classes that the club offers.
 
-A blue button should appear to click: Make Public,
+- ![Screen Shot 2022-12-31 at 10 38 14](https://user-images.githubusercontent.com/116975650/210133715-1337bb88-13e1-4360-a41b-d74828a4339f.png)
 
-Another blue button should appear to click: Open Browser.
+------------------------------------------------------------------------------------------------------------------------------
+• The Sign Up Form
+- The sign up section has a form to collect information from parents to sign their children up to a cycling class and for safe guarding issues we don't allow anyone to directly sign up for a class immediately, instead we tell users that our team will reach out to them with further details
+- The sign up form is also for those who are 18+ to fill out, in this case they still cant sign up immideiately, a member of our team will reach out to confirm their age
+- The sign up form collects the name, last name, email and phone number.
+- The sign up form is valuable to users because it ensures they will be reached out to and they are half-way there in confirming a secure spot in one of our cycle classes.
+- 
+![Screen Shot 2022-12-31 at 10 40 51](https://user-images.githubusercontent.com/116975650/210133898-0807d2a4-98f0-4924-ae99-53d4f3231394.png)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the sudo (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
 
-Log in to your Heroku account and go to Account Settings in the menu under your avatar.
-Scroll down to the API Key and click Reveal
-Copy the key
-In Gitpod, from the terminal, run heroku_config
-Paste in your API key when asked
-You can now use the heroku CLI program - try running heroku apps to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with Regenerate API Key.
-------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
 Release History
 We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 
