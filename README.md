@@ -32,16 +32,16 @@ Another blue button should appear to click: Open Browser.
 ------------------------------------------------------------------------------------------------------------------------------
 • Gallery
 
--The gallery provides different pictures of our cyclists
-- The gallery shows clear pictures with single cyclist pictures and group cyclist pictures
--The gallery shows users the different locations we provide lessons in
+-The gallery provides different pictures of our cyclists.
+- The gallery shows clear pictures with single cyclist pictures and group cyclist pictures.
+-The gallery shows users the different locations we provide lessons in.
 
 ![Screen Shot 2022-12-31 at 10 21 26](https://user-images.githubusercontent.com/116975650/210134049-d724357c-8238-4e63-adb7-4358a38505d5.png)
 
 https://www.pexels.com/ (Pictures taken from Pexels.com)
 
 • The Sign Up Form
-- The sign up section has a form to collect information from parents to sign their children up to a cycling class and for safe guarding issues we don't allow anyone to directly sign up for a class immediately, instead we tell users that our team will reach out to them with further details
+- The sign up section has a form to collect information from parents to sign their children up to a cycling class and for safe guarding issues we don't allow anyone to directly sign up for a class immediately, instead we tell users that our team will reach out to them with further details.
 - The sign up form is also for those who are 18+ to fill out, in this case they still cant sign up immideiately, a member of our team will reach out to confirm their age
 - The sign up form collects the name, last name, email and phone number.
 - The sign up form is valuable to users because it ensures they will be reached out to and they are half-way there in confirming a secure spot in one of our cycle classes.
