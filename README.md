@@ -61,13 +61,18 @@ BUGS
 Solved bugs
 - When i first started my project I realised that none of my css was working.
 - I realised that this was because my html and css file were not linked nd had trouble with the internal file.
-![Screen Shot 2022-12-31 at 10 59 44](https://user-images.githubusercontent.com/116975650/210134398-7d29bc97-929e-4c6e-acdb-d28339a16f50.png)
 
+![Screen Shot 2022-12-31 at 11 04 01](https://user-images.githubusercontent.com/116975650/210134451-88b24d68-d0ad-4196-9811-fad069ba3240.png)
+I had to add "/style.css" to complete the file path and link the pages
 
+• Validator testing
 
-
-
-
+• HTML
+- No erros where returned when passing through the official W3C validator
+• CSS
+- No erros where returned when passing through the official W3C (jigsaw) validator
+• Accessibility
+I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse dev tools
 
 
 
